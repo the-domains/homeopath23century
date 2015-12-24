@@ -1,0 +1,28 @@
+name: HOMEOPATH23CENTURY
+favicon: null
+layout_spectrum: 0.903776481281966
+typography_spectrum: 0.4850607751868665
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5046217530034482
+  lightness: 0.8400494907982647
+  saturation: 0.23024578508920968
+  rhythmicContrast: 0.4073455997277051
+purpose: []
